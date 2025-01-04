@@ -1,3 +1,3 @@
-# Table of contents
+# Table Of Contents
 
-* [ViiPeRz-Docs](README.md)
+* [👋 Introduction](README.md)
